@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": "1",
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co.com/9bGfHR8/To-Kill-a-Mockingbird.jpg",
+      "review": "A profound novel about racism, morality, and human nature, set in the American South. Through the eyes of Scout Finch, Harper Lee masterfully portrays the complexities of prejudice and empathy, drawing readers into a story of childhood innocence amid intense social issues. Atticus Finch's unyielding integrity makes this a powerful narrative on justice and humanity.",
+      "totalPages": 281,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Classic", "Historical", "Drama"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": "2",
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co.com/sJyHf1W/1984.jpg",
+      "review": "A chilling dystopian novel that explores themes of totalitarianism and surveillance. Orwell's depiction of a world stripped of individuality and freedom is hauntingly realistic, painting a picture of a society under constant control by Big Brother. It is a thought-provoking work that raises questions about personal freedom, governmental power, and the risks of unchecked authority.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political", "Classic"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": "3",
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co.com/28TnDFr/The-Great-Gatsby.jpg",
+      "review": "A tragic story of love and ambition set against the backdrop of the Jazz Age. Through the mysterious millionaire Jay Gatsby, Fitzgerald delves into the illusions of the American Dream and the hollow pursuit of wealth. The novel captures the glitz and despair of 1920s New York, illuminating the complexities of social class and unrequited love.",
+      "totalPages": 180,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance", "Historical"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": "4",
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co.com/KV1yVWh/Pride-and-Prejudice.jpg",
+      "review": "A delightful exploration of manners, marriage, and society in early 19th-century England. Jane Austen weaves a compelling story around Elizabeth Bennet and Mr. Darcy, exploring themes of social standing and personal growth. Witty dialogue and keen observations make this a timeless commentary on love and the human condition.",
+      "totalPages": 279,
+      "rating": 4.6,
+      "category": "Romance",
+      "tags": ["Classic", "Romance", "Satire"],
+      "publisher": "T. Egerton",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": "5",
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co.com/8Dt0mpF/The-Catcher-in-the-Rye.jpg",
+      "review": "A coming-of-age novel that captures teenage angst and alienation through the lens of Holden Caulfield. Salinger’s protagonist is complex and flawed, capturing the restless spirit of youth with raw authenticity. Holden's journey through New York City becomes a powerful exploration of loss, identity, and the struggle for connection.",
+      "totalPages": 214,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Classic", "Coming of Age", "Psychological"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": "6",
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co.com/Zch6Wrd/The-Hobbit.jpg",
+      "review": "A fantasy adventure that follows Bilbo Baggins on his quest to the Lonely Mountain. Tolkien introduces readers to a richly detailed world filled with dragons, dwarves, and magic. Bilbo’s transformation from a reluctant hero to a brave adventurer captures the essence of courage and friendship in a classic tale of good versus evil.",
+      "totalPages": 310,
+      "rating": 4.7,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Fantasy", "Classic"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937
+    }
+  ]
+  
